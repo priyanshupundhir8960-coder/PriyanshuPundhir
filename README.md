@@ -47,7 +47,7 @@ My career objective is to become an AI Engineer / Machine Learning Engineer and 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: linkedin.com/in/munendra-kumar-591848283
+- LinkedIn: linkedin.com/in/munendra-kumar-591848283 
 - GitHub: https://github.com/priyanshupundhir8960-coderwhats
 - Email: priyanshupundhir8960@gmail.com
 
